@@ -1,0 +1,4 @@
+C:\Users\HAL\AppData\Local\Temporary Projects\suc\bin\Debug\suc.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\suc\bin\Debug\suc.pdb
+C:\Users\HAL\AppData\Local\Temporary Projects\suc\obj\x86\Debug\suc.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\suc\obj\x86\Debug\suc.pdb
